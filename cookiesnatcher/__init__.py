@@ -1,0 +1,1 @@
+from .snatcher import CookieSnatcher
